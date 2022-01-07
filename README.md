@@ -72,17 +72,6 @@ The project was realized at the Institute of Robotics, Johannes Kepler Universit
 ## Contact Info:
 Roman.Parak@outlook.com
 
-## Citation (BibTex)
-```bash
-@misc{RomanParak_Bezier,
-  author = {Roman Parak},
-  title = {An open-source library for calculation and visualization of bézier curves},
-  year = {2021},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/rparak/Bezier_Curve}}
-}
-```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
