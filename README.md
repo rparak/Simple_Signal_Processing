@@ -13,13 +13,17 @@ Python
  Matplotlib, NumPy, SciPy
 ```
 
+## Project Description:
+
+The project was realized at the Institute of Robotics, Johannes Kepler University (Linz, Upper Austria, Austria).
+
 ## Project Hierarchy:
 
 **Repositary [/Simple_Signal_Processing/]:**
 ```bash
-[ Main Class (2D, 3D Bézier curves) - Python ] /src/Python/Bezier.py
-[ Test Program                               ] /src/Python/test.py 
-[ Animation creation (2D/3D Gif)             ] /src/Python/Animation/{animation_2D.py or animation_3D.py}
+[ Main Class (SMA, BLP, BLPMA ] /src/Signal/Filter.py
+[ Data evaluation (graph)     ] /src/data_evaluation.py
+[ Data evaluation (gif)       ] /src/data_evaluation_anim.py
 ```
 
 ## Application:
