@@ -22,7 +22,7 @@ Demonstration of simple signal processing filters such as SMA (Simple Moving Ave
  - The gloves contain two infrared sensors. They detect the visible LEDs on the glove (there are eight in total) and convert them to the position (x, y, z) and orientation in terms of pitch, yaw and roll. The glove also has bend sensors in the fingers and four buttons on the top. 
  - Communication between the gloves and the application on the computer is via USB port.
 
-The project was realized at the Institute of Robotics, Johannes Kepler University (Linz, Upper Austria, Austria).
+The project was realized at the Institute of Robotics, Johannes Kepler University (Linz, Austria).
 
 <p align="center">
   <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/GIF/ALL.gif" width="800" height="450">
