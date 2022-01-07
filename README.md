@@ -17,12 +17,14 @@ Python
 
 Demonstration of simple signal processing filters such as SMA (Simple Moving Average), BLP (Butterworth Low Pass) and BLPMA (Butterworth Low Pass Moving Average). The program was used in a real-world application to filter the signal from the Essential Reality P5 glove. In this case it is a signal from the X position.
 
+```bash
 Essential Reality P5 Glove Notes: 
       - The P5 virtual reality gloves are data gloves suitable for gaming and 3D virtual environments. 
       - The gloves contain two infrared sensors. They detect the visible LEDs on the glove (there are eight in total) 
         and convert them to the position (x, y, z) and orientation in terms of pitch, yaw and roll. The glove also has 
         bend sensors in the fingers and four buttons on the top. 
       - Communication between the gloves and the application on the computer is via USB port.
+```
 
 The project was realized at the Institute of Robotics, Johannes Kepler University (Linz, Upper Austria, Austria).
 
