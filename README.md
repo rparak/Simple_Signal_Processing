@@ -1,2 +1,2 @@
-# Simple_Signal_Processing
+# Simple Signal Processing Filters: SMA, BLP, etc.
 Text ..
