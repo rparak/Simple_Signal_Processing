@@ -19,6 +19,13 @@ Demonstration of simple signal processing filters such as SMA (Simple Moving Ave
 
 The project was realized at the Institute of Robotics, Johannes Kepler University (Linz, Upper Austria, Austria).
 
+<p align="center">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/Images/RAW.png" width="550" height="300">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/Images/SMA.png" width="550" height="300">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/Images/BLP.png" width="550" height="300">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/Images/BLPMA.png" width="550" height="300">
+</p>
+
 ## Project Hierarchy:
 
 **Repositary [/Simple_Signal_Processing/]:**
