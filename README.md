@@ -32,9 +32,10 @@ The project was realized at the Institute of Robotics, Johannes Kepler Universit
 
 **Repositary [/Simple_Signal_Processing/]:**
 ```bash
-[ Main Class (SMA, BLP, BLPMA ] /src/Signal/Filter.py
-[ Data evaluation (graph)     ] /src/data_evaluation.py
-[ Data evaluation (gif)       ] /src/data_evaluation_anim.py
+[ Raw Data                     ] /src/Data/Test_Data.txt
+[ Main Class (SMA, BLP, BLPMA) ] /src/Signal/Filter.py
+[ Data evaluation (graph)      ] /src/data_evaluation.py
+[ Data evaluation (gif)        ] /src/data_evaluation_anim.py
 ```
 
 ## Application:
