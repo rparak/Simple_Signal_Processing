@@ -31,12 +31,28 @@ Python
 </p>
 
 **Simple Moving Average (SMA):**
+<p align="center">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/Images/SMA.png" width="800" height="450">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/GIF/SMA.gif" width="800" height="450">
+</p>
 
 **Butterworth Low Pass (BLP):**
+<p align="center">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/Images/BLP.png" width="800" height="450">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/GIF/BLP.gif" width="800" height="450">
+</p>
 
 **Butterworth Low Pass Moving Average (BLPMA):**
+<p align="center">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/Images/BLPMA.png" width="800" height="450">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/GIF/BLPMA.gif" width="800" height="450">
+</p>
 
 **ALL:**
+<p align="center">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/Images/ALL.png" width="800" height="450">
+ <img src="https://github.com/rparak/Simple_Signal_Processing/blob/main/GIF/ALL.gif" width="800" height="450">
+</p>
 
 ## Contact Info:
 Roman.Parak@outlook.com
