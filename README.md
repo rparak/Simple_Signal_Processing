@@ -15,7 +15,7 @@ Python
 
 ## Project Description:
 
-Demonstration of simple signal processing filters such as SMA (Simple Moving Average), BLP (Butterworth Low Pass) and BLPMA (Butterworth Low Pass Moving Average). The program was used in a real-world applicatio to filter the signal from the Essential Reality P5 glove.
+Demonstration of simple signal processing filters such as SMA (Simple Moving Average), BLP (Butterworth Low Pass) and BLPMA (Butterworth Low Pass Moving Average). The program was used in a real-world application to filter the signal from the Essential Reality P5 glove.
 
 The project was realized at the Institute of Robotics, Johannes Kepler University (Linz, Upper Austria, Austria).
 
